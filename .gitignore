@@ -39,3 +39,4 @@ build/
 
 ### Project ###
 pom.xml
+/src/main/resources/config/dbconfig.properties
